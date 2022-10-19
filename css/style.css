@@ -1,0 +1,80 @@
+.jumbo {
+    background-image: url(../img/jumbo-bg.png);
+    display: block;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.jumbo .container {
+    padding-top: 150px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.game-grid {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: antiquewhite;
+}
+
+.card {
+    border: 0;
+    border-radius: 10px;
+    aspect-ratio: 1/1;
+
+}
+
+.card-game {
+    aspect-ratio: 16/9;
+}
+
+.hardware {
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+    background-color: aquamarine;
+}
+
+.bg-game {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    display: block;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.bg-game .container {
+    padding-top: 60px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.new-game {
+    padding-top: 20px;
+    background-color: #1F1F1F;
+    color: white;
+}
+
+.card-new-game img {
+
+    border-radius: 10px;
+}
+
+.playstation-plus {
+
+    background-color: #BEBCBB;
+}
+
+.logo-playstation-plus img {
+    width: 70%;
+}
+
+.playstation-now {
+    background-color: #161C3B;
+    color: white;
+}
