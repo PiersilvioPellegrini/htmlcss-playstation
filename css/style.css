@@ -59,17 +59,33 @@ ul li a {
     border-radius: 20px;
     padding: 0 15px;
     height: 30px;
+    border: 0px;
 
 
 }
 
-.button-header{
+.button-header {
     background-color: #CD3D0F;
     color: white;
     font-size: 14px;
     border-radius: 20px;
     padding: 5px 15px;
     border: 0px;
+}
+
+.button-main {
+    background-color: #2D64E6;
+    color: white;
+    font-size: 16px;
+    border-radius: 20px;
+    padding: 5px 15px;
+    border: 0px;
+
+
+}
+
+.text-blue {
+    color: #68A3D3;
 }
 
 
@@ -91,11 +107,7 @@ ul li a {
     color: white;
 }
 
-.game-grid {
-    padding-top: 20px;
-    padding-bottom: 10px;
-    background-color: antiquewhite;
-}
+.game-grid {}
 
 .card {
     border: 0;
@@ -112,7 +124,6 @@ ul li a {
     padding-top: 20px;
     padding-bottom: 10px;
 
-    background-color: aquamarine;
 }
 
 .bg-game {
