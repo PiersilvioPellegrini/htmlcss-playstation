@@ -13,15 +13,17 @@
 
 
 }
-.burger button{
+
+.burger button {
     border: 1px solid grey;
     border-radius: 5px;
-    
+
 }
+
 .myburger {
-    width:15px;
+    width: 15px;
     aspect-ratio: 1/1;
-    
+
 
 }
 
@@ -61,6 +63,14 @@ ul li a {
 
 }
 
+.button-header{
+    background-color: #CD3D0F;
+    color: white;
+    font-size: 14px;
+    border-radius: 20px;
+    padding: 5px 15px;
+    border: 0px;
+}
 
 
 
