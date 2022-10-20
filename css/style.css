@@ -82,9 +82,20 @@ ul li a {
     border: 0px;
 }
 
-.btn-small{
+.btn-small {
     width: 150px;
 }
+
+.btn-medium {
+    width: 200px;
+}
+
+.btn-invert {
+    background-color: white;
+    color: #2D64E6;
+
+}
+
 .text-blue {
     color: #68A3D3;
 }
