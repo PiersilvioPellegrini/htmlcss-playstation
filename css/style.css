@@ -90,10 +90,19 @@ ul li a {
     width: 200px;
 }
 
+.btn-large {
+    width: 250px;
+}
+
 .btn-invert {
     background-color: white;
     color: #2D64E6;
 
+}
+
+.btn-white{
+    background-color: white;
+    color: black;
 }
 
 .text-blue {
