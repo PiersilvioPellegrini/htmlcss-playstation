@@ -19,7 +19,7 @@
 <body>
     <header>
         <div class="container-fluid p-0">
-            <div class="nav-black p-1">
+            <div class="nav-black p-1 ">
                 <img class="img-fluid" src="img/sony_logo.svg" alt="">
             </div>
             <nav class="nav-white d-flex gap-5 ">
@@ -27,7 +27,7 @@
                     <img class="img-fluid" src="img/play_logo nav.svg" alt="">
                 </div>
 
-                <div class="menu d-flex justify-content-between ">
+                <div class="menu d-lg-flex justify-content-between d-none ">
                     <ul class="d-flex justify-content-between gap-4 ">
                         <li class="d-flex align-items-center">
                             <a href="/index.html">Giochi
@@ -62,16 +62,20 @@
                     </ul>
                 </div>
 
-                <div class="user d-flex ms-auto gap-3">
-                    <div class="d-flex align-items-center ">
+                <div class="user d-lg-flex ms-auto pe-3 gap-3 d-none">
+                    <div class="d-flex  align-items-center ">
                         <a href="/index.html">My PlayStation
                             <img class="arrow-down" src="img/chevron-down-solid.svg" alt="">
                         </a>
                     </div>
                     <button class="button-navbar">Accedi</button>
-                    <div class="lens">
+                    <div class="lens d-flex">
                         <img class="img-fluid" src="img/lens.svg" alt="">
                     </div>
+                </div>
+
+                <div class="burger d-flex align-items-center ms-auto pe-2 d-lg-none">
+                    <button class="p-2"><img class="myburger  img-fluid" src="img/menu-icon-13.png" alt=""></button>
                 </div>
 
 
