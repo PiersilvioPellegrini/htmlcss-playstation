@@ -80,10 +80,11 @@ ul li a {
     border-radius: 20px;
     padding: 5px 15px;
     border: 0px;
-
-
 }
 
+.btn-small{
+    width: 150px;
+}
 .text-blue {
     color: #68A3D3;
 }
